@@ -1,0 +1,6 @@
+@APIExamen2Progra6SebastianSancho_HostAddress = http://localhost:5259
+
+GET {{APIExamen2Progra6SebastianSancho_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
